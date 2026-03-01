@@ -2,8 +2,6 @@
 
 ## Overview
 
-This repository serves as an index of Bussiness Inteligence related projects. It provides quick access to applications, tools, and prototypes, and will continue to grow as new projects are added.
-
 This Power BI report demonstrates interactive filtering and dynamic metrics using a synthetic dataset of customers. The primary purpose of this report is to **showcase filter interactions and KPI updates** based on user input controls.
 
     The toggle is made with Power Bi's own tools, no external addons.
